@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "globia-relmia",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A faux marketing site inspired by a game by rhymu8354",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Twitch Chat",
   "engines": {
     "npm": "please-use-yarn",
     "yarn": ">= 1.21.1",
