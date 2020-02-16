@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `Boat.world`,
-    description: `A community project to reimagine a marketing site for an awesome game by an awesome streamer.`,
+    title: `Globia Relmia`,
+    description: `A faux marketing site inspired by a game by rhymu8354`,
     author: `twitch chat`,
   },
-  pathPrefix: "/boat.world",
+  pathPrefix: "/globia-relmia",
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
