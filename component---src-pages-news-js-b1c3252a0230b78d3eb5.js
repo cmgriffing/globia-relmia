@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{FJi0:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),r=(n("Wbzz"),n("Bl7J")),c=(n("tBDR"),n("vrFN"));t.default=function(){return l.a.createElement(r.a,null,l.a.createElement(c.a,{title:"News"}),l.a.createElement("h1",null,"News"))}}}]);
+//# sourceMappingURL=component---src-pages-news-js-b1c3252a0230b78d3eb5.js.map

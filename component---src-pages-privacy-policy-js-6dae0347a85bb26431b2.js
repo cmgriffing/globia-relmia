@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"78+o":function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),c=n.n(a),l=(n("Wbzz"),n("Bl7J")),r=(n("tBDR"),n("vrFN"));t.default=function(){return c.a.createElement(l.a,null,c.a.createElement(r.a,{title:"PrivacyPolicy"}),c.a.createElement("h1",null,"Privacy Policy"))}}}]);
+//# sourceMappingURL=component---src-pages-privacy-policy-js-6dae0347a85bb26431b2.js.map

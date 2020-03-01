@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{gyVf:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),r=(n("Wbzz"),n("Bl7J")),c=(n("tBDR"),n("vrFN"));t.default=function(){return l.a.createElement(r.a,null,l.a.createElement(c.a,{title:"Game"}),l.a.createElement("h1",null,"Game"))}}}]);
+//# sourceMappingURL=component---src-pages-game-js-3e9c221f0e9cdf729d96.js.map
