@@ -1,9 +1,9 @@
 ---
 postType: "news"
-path: "/news/introducing-boat-world"
+path: "/news/introducing-globia-relmia"
 date: "2019-05-05"
-title: "Introducing Boat.world"
-summary: "The best boats battle it out for world domination."
+title: "Introducing Globia Relmia"
+summary: "Enter the open world. Don't hurt the slimes."
 featuredImage: "./../../images/gatsby-astronaut.png"
 ---
 
